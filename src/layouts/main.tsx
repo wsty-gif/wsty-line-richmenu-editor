@@ -63,7 +63,7 @@ export default function MainLayout({
             <Box display="flex" flexDirection="row">
               <Box display="flex" flexDirection="row" flexGrow={1} alignItems="center">
                 <Typography variant="h6" >
-                  リッチメニューエディタ
+                  リッチメニューエディタaaa
                 </Typography>
               </Box>
               <Stack direction="row" spacing={2}>
