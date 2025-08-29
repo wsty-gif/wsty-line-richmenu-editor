@@ -145,7 +145,7 @@ export default function LeftSideDrawer(
           )
         }
         <ListSubheader component="div" sx={{ background: "transparent" }}>
-          リッチメニュー一覧
+          リッチメニュー一覧aaaaaaa
         </ListSubheader>
         {accounts.map((account, i) => (
           <div key={`${i}`} data-target={`${account.basicId}`}>
